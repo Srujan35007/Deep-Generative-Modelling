@@ -6,5 +6,5 @@ Generative models using Deep convolutional Networks.
 - Cropped to square and resized to (160, 160, 3). (Gray scale images can also be used if computation is expensive).
 - Stored in a [zip file](https://drive.google.com/file/d/1-1tWqqRMIEh7-brHL2zYaiRUcrLN8Ixk/view?usp=sharing) without compromizing the file names.
 - Refer [preprocess_images.ipynb](./preprocess_images.ipynb) for more details.<br>
-#### Here is a collage of resized images
+#### Here is a collage of preprocessed images
 ![collage](./images/collage.png)
