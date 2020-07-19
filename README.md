@@ -15,5 +15,5 @@ Generative models using Deep convolutional Networks.
 
 #### Generator architecture
 ![generator](./images/generator.png)
-#### Discriminator acchitecture
+#### Discriminator architecture
 ![discriminator](./images/discriminator.png)
