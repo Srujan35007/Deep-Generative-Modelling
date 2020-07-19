@@ -8,3 +8,12 @@ Generative models using Deep convolutional Networks.
 - Refer [preprocess_images.ipynb](./preprocess_images.ipynb) for more details.<br>
 #### Here is a collage of preprocessed images
 ![collage](./images/collage.png)
+
+### The model architecture
+- An up-sampling convolutional network for the Generator.
+- A down-sampling convolutional network for the Discriminator.
+
+#### Generator architecture
+![generator](./images/generator.png)
+#### Discriminator acchitecture
+![discriminator](./images/discriminator.png)
